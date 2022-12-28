@@ -1,4 +1,4 @@
-##Wikipedia Search Virtual Assistant
+Wikipedia Search Virtual Assistant
 This Python script creates a virtual assistant that can search Wikipedia and display the results to the user. The user can then choose which result they would like to see, and the virtual assistant will open the chosen page in a web browser.
 
 Requirements
